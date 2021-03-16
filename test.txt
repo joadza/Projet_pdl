@@ -1,0 +1,13 @@
+TUto git 
+
+git clone https://github.com/joadza/Projet_pdl.git
+"Mettre le projet git sur son pc
+
+git add <filename>
+git add * 
+"Mettre les fichier dans un repertoire temporaire ".
+
+git commit -m "Petit resumé"
+"On mets des informations deans le commit
+
+
